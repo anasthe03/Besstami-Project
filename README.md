@@ -258,6 +258,12 @@ This project demonstrates understanding of:
 🔗 GitHub: [github.com/anasthe03](https://github.com/anasthe03)  
 💼 LinkedIn: [linkedin.com/in/lahmidianas](https://www.linkedin.com/in/lahmidianas/)
 
+## 📞 Contact
+
+For questions, suggestions, or collaboration opportunities:
+
+📧 anaslahmidi03@gmail.com
+
 ## 📄 License
 
 This project is developed for educational purposes only.
